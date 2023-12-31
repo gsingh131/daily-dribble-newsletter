@@ -1,0 +1,55 @@
+#stadium-img{
+        width: 380px;
+        border: 3px solid #121212;
+}
+
+.flexbox{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+body{
+    color: #121212;
+}
+
+#desc{
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: 14px;
+    font-style: italic;
+    width: 350px;
+    height: 50px
+}
+#email-input{
+    width: 200px;
+    border: 3px solid #121212;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+#terms{
+    color: #121212;
+    font-style: italic;
+}
+
+#terms-p{
+    font-style: italic;
+}
+
+
+#signup-btn{
+    width: 245px;
+    color: white;
+    background-color: #121212;
+    border: 3px solid #121212;
+    padding: 10px 20px;
+    margin-bottom: 10px; 
+}
+
+
+
